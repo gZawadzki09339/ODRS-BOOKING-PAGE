@@ -7,3 +7,4 @@ Notes and usage details for ODRS-BOOKING-PAGE.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- link the usage section
