@@ -49,3 +49,4 @@ Notes and usage details for ODRS-BOOKING-PAGE.
 - clarify the setup steps
 - fix a small wording issue
 - clarify the setup steps
+- add a note about the defaults
